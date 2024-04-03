@@ -7,6 +7,7 @@ Coursera Google Cyber Security Projects Completed
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
 # Google Cybersecurity Professional Certificate
 
 Certificate of completion for Google Cybersecurity Professional Certificate for Alexander Mestre https://www.coursera.org/account/accomplishments/specialization/certificate/2BCY5HFSR9XL
