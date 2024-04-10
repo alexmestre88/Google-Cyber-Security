@@ -75,19 +75,10 @@ https://www.coursera.org/account/accomplishments/certificate/WR85BLCJE8RA
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: www.linkedin.com/in/alexander-mestre-0a5a28175
+[linkedin]:www.linkedin.com/in/alexander-mestre-0a5a28175
+
+www.linkedin.com/in/alexander-mestre-0a5a28175
+
 
 <!--
 **alexmestre88/alexmestre88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Becoming a CyberSecurity Analyst
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... alexander.mestre.00@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
