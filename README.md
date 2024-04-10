@@ -47,7 +47,7 @@ Each directory holds the files for practical projects in this course:
 <hs> - Certifications - </h2>
 
 Connect and Protect: Networks and Network Security
-(https://www.coursera.org/account/accomplishments/certificate/U4WRJWLDX6X5)
+https://www.coursera.org/account/accomplishments/certificate/U4WRJWLDX6X5
 
 Assets, Threats, and Vulnerabilities
 https://www.coursera.org/account/accomplishments/certificate/J5UPFTV25ZGH
