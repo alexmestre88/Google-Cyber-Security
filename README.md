@@ -55,7 +55,7 @@ https://www.coursera.org/account/accomplishments/certificate/J5UPFTV25ZGH
 Tools of the Trade: Linux and SQL
 https://www.coursera.org/account/accomplishments/certificate/646REWESYYRE
 
-Foundations of Cybersecurity
+Foundations of Cybersecurity 
 https://www.coursera.org/account/accomplishments/certificate/YB8PDJ2G548Z
 
 Automate Cybersecurity Tasks with Python
