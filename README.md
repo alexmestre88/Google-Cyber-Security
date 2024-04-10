@@ -34,12 +34,13 @@ It also taught me technical skills:
   * Firewalls
 
 Each directory holds the files for practical projects in this course: 
-  1. Play It Safe: Manage Security Risks
-  2. Connect and Protect: Networks and Network Security
-  3. Tools of the Trade: Linux and SQL
-  4. Assets, Threats, and Vulnerabilities
-  5. Sound the Alarm: Detection and Response
-  6. Automate Cybersecurity Tasks with Python
+  1. Foundations of Cybersecurity
+  2. Play It Safe: Manage Security Risks
+  3. Connect and Protect: Networks and Network Security
+  4. Tools of the Trade: Linux and SQL
+  5. Assets, Threats, and Vulnerabilities
+  6. Sound the Alarm: Detection and Response
+  7. Automate Cybersecurity Tasks with Python
   
  
 
